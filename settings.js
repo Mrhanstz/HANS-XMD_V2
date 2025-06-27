@@ -1,18 +1,18 @@
 //base by HANSTZ
 //YouTube: @HANSTZ-TECH
-//Whatsapp https://wa.me/255756530143
+//Whatsapp https://wa.me/50934330410
 //GitHub: @Mrhanstz
 //WhatsApp: https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
 //want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
 const fs = require('fs')
 const chalk = require('chalk')
 //contact details
-global.ownernomer = "255756530143"
-global.ownername = "HANSTZ"
+global.ownernomer = "50934330410"
+global.ownername = "WADSON"
 global.ytname = "HANSTZ-TECH"
 global.socialm = "GitHub: Mrhanstz"
 global.location = "AFRICA, TANZANIA, DODOMA"
-global.ownernumber = '255756530143'  //creator number
+global.ownernumber = '50934330410'  //creator number
 global.ownername = 'HANSTZ' //owner name
 global.botname = 'HANS-XMD' //name of the bot
 //sticker details
