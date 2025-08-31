@@ -1,28 +1,28 @@
 //base by HANSTZ
 //YouTube: @HANSTZ-TECH
-//Whatsapp https://wa.me/255614195217
+//Whatsapp https://whatsapp.com/channel/0029VbARrVYATRSr196egF2P
 //GitHub: @Mrhanstz
-//WhatsApp: https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
-//want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
+//WhatsApp: https://whatsapp.com/channel/0029VbARrVYATRSr196egF2P
+//want more free bot scripts? follow my channel : 
 const fs = require('fs')
 const chalk = require('chalk')
 require('dotenv').config()
 
 //contact details - sensitive info moved to .env
-global.SESSION_ID = process.env.SESSION_ID || "" //fallback to default if not in .env
-global.ownernomer = process.env.OWNER_NUMBER || "255614195217"
+global.SESSION_ID = process.env.SESSION_ID || "HansTz&utQkhaga#H_0hXo_AIQX4AF5iz0r_xRp2wevRIbyh0goLruZGKfM" //fallback to default if not in .env
+global.ownernomer = process.env.OWNER_NUMBER || "263785785040"
 
 global.ownername = process.env.OWNER_NAME || "HansTech"
 
-global.ytname = "HANSTZ-TECH"
+global.ytname = "Drewzulex"
 
 global.socialm = "GitHub: Mrhanstz"
 
 global.location = "AFRICA, TANZANIA, DODOMA"
 
-global.ownernumber = process.env.OWNER_NUMBER || '255614195217'  //Owner number
+global.ownernumber = process.env.OWNER_NUMBER || '263785785040'  //Owner number
 
-global.ownername = process.env.OWNER_NAME || 'HANSTZ' //owner name
+global.ownername = process.env.OWNER_NAME || 'Drewzulex //owner name
 global.botname = 'HANS-XMD' //name of the bot
 
 //sticker details
@@ -34,26 +34,26 @@ global.themeemoji = '⚠️'
 global.wm = "HANS BOT"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
+global.link = 'https://whatsapp.com/channel/0029VbARrVYATRSr196egF2P'
 
 //custom prefix
 global.prefa = ['','!','.','#','/']
 
 
 //bot settings
-global.autolikestatus = true //For auto react Status Random
+global.autolikestatus = false //For auto react Status Random
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti91 = false //auto block +91 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 global.autoreact = false // This is For Auto React 
 global.welcome = false // For Welcome massage groups
 
 
-global.wagc = "https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31";
+global.wagc = "https://whatsapp.com/channel/0029VbARrVYATRSr196egF2P";
 
 //reply messages
 global.mess = {
