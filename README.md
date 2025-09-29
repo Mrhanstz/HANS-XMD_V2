@@ -9,7 +9,7 @@
 ---
 ### 🎧 MUSIC DOWNLOADER
 ### 🖼️ RANDOMS ANIME IMAGE'S
-### 😅 FUN STICKERS
+### 😅 FUN STICKERS by shadow 
 ### 🤖 CHATBOT
 ### 🔗 ANTILINK
 ### *AND MORE COMMANDS*
@@ -20,7 +20,7 @@
 ## 🚀 Get Started  
 
 ### 1️⃣ Fork the Repo  
-[![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Mrhanstz/HANS-XMD_V2/fork)
+[![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Mrhanstz/shadow_V2/fork)
 
 ### 2️⃣ Session ID Site
 [![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hanstz-sessions.onrender.com/)
