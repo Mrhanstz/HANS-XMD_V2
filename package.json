@@ -37,7 +37,7 @@
         "form-data": "^4.0.0",
         "fs-extra": "^11.1.1",
         "human-readable": "^0.2.1",
-        "jimp": "^0.16.13",
+        "jimp": "latest",
         "jsdom": "^22.1.0",
         "moment-timezone": "^0.5.43",
         "node-fetch": "^2.6.11",
